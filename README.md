@@ -57,6 +57,55 @@ Using Tableau, a data visualization software; we are able to show through graphs
 
 ![image](https://drive.google.com/uc?export=view&id=1fzot6j08rz7pbQLGLvqqkkuW4BVpOG2Y)
 
+![image](https://drive.google.com/uc?export=view&id=1kHZZ6pmB1oYr6H-c-j81vUpU5SPm23pr)
+
+![image](https://drive.google.com/uc?export=view&id=1-3arRWKIMd--3Fzq2RT0h7PQ913YlGHZ)
+
+![image](https://drive.google.com/uc?export=view&id=1ByqxUy_hAwRBt8pAr_pPV717QxHrJ_gy)
+
+![image](https://drive.google.com/uc?export=view&id=1OuEM_hjUMibINTc7v_fKy_f4GxU8hd4B)
+
+![image](https://drive.google.com/uc?export=view&id=1p2LaHLXpMWRtYw9RiiBY3Umfjbyhe_PJ)
+
+![image](https://drive.google.com/uc?export=view&id=18W0Edb47eAlAEwIm1fhCqvXQTk_FyNXP)
+
+![image](https://drive.google.com/uc?export=view&id=1718koCYQBRHexhrC8D2dPE2htEgZjiH2)
+
+![image](https://drive.google.com/uc?export=view&id=1Um12tUsDbNeoqMLhklC9_Y9c5JnlOFdj)
+
+![image](https://drive.google.com/uc?export=view&id=13h5cXy1WpaxpEwSp3WjYfbNMoRu7VGFY)
+
+![image](https://drive.google.com/uc?export=view&id=1KwShtipmTd0Weeszjzm5M0c8W9gUAe03)
+
+![image](https://drive.google.com/uc?export=view&id=1LMJkBoYC7ziKeBuVK9QkOYCQATEQ3X2G)
+
+![image](https://drive.google.com/uc?export=view&id=12MY_HmMLApuh5jUhnGom45jnzvfegHty)
+
+![image](https://drive.google.com/uc?export=view&id=1P80mxAhQUFNXr4-BDvaA-rUjx9S2by4b)
+
+![image](https://drive.google.com/uc?export=view&id=1Fu-9OaiibkKWx5bgwN0zAOgP48Avz8HW)
+
+![image](https://drive.google.com/uc?export=view&id=1ceXKghp8R8xPvCnzkhi5Q-jnJa7IX8Ft)
+
+![image](https://drive.google.com/uc?export=view&id=121IMEQVs623k6eu8EPDExYP0UzxoaSl5)
+
+![image](https://drive.google.com/uc?export=view&id=1py9qRa9mlH8v0h-aS2bb8ksRq7F9lXP_)
+
+![image](https://drive.google.com/uc?export=view&id=1dSeTkz89R9dt7k28PHHe0930oWcKglIK)
+
+![image](https://drive.google.com/uc?export=view&id=1Ywi9_ml2RE7Xx1pNLAcucOgJ-uohxFmZ)
+
+![image](https://drive.google.com/uc?export=view&id=1MkXFLkf7LGhWznuedMhhSyIuzPnmqLzp)
+
+![image](https://drive.google.com/uc?export=view&id=1Zw5JUm6R8Mw1qGd1d-AZCkRDAK_HZ8Lp)
+
+![image](https://drive.google.com/uc?export=view&id=1qF7ecHiblD6yZ5Gh4mH8mdwpwp5cNMzq)
+
+![image](https://drive.google.com/uc?export=view&id=1qhI2wYOfPddOZYh3lqz_oQcXEPnAZqiT)
+
+
+
+
 Overview of the statistical analysis:
 
 The purpose of the analysis is well defined. (5 pt)
