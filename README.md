@@ -55,7 +55,7 @@ Using Tableau, a data visualization software; we are able to show through graphs
 ## Graph Summary
 
 
-![image](https://drive.google.com/file/d/1fzot6j08rz7pbQLGLvqqkkuW4BVpOG2Y/view?usp=sharing)
+![image]https://drive.google.com/uc?export=view&id=1fzot6j08rz7pbQLGLvqqkkuW4BVpOG2Y)
 
 Overview of the statistical analysis:
 
