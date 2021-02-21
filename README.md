@@ -21,7 +21,7 @@ We are here now to show you, our potential investors, through our analysis below
 
 * 8.419 million (2019) population of NYC (2019) 
 
-## Overview of Analysis
+## Purpose of Analysis
 
 Using Tableau, a data visualization software; we are able to show through graphs 
 
@@ -111,7 +111,6 @@ Overview of the statistical analysis:
 The purpose of the analysis is well defined. (5 pt)
 Results:
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 Summary:
 
