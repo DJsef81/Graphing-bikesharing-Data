@@ -91,10 +91,6 @@ Using Tableau, a data visualization software; we are able to show through graphs
 
 ![image](https://drive.google.com/uc?export=view&id=1py9qRa9mlH8v0h-aS2bb8ksRq7F9lXP_)
 
-![image](https://drive.google.com/uc?export=view&id=1dSeTkz89R9dt7k28PHHe0930oWcKglIK)
-
-![image](https://drive.google.com/uc?export=view&id=1Ywi9_ml2RE7Xx1pNLAcucOgJ-uohxFmZ)
-
 ![image](https://drive.google.com/uc?export=view&id=1MkXFLkf7LGhWznuedMhhSyIuzPnmqLzp)
 
 ![image](https://drive.google.com/uc?export=view&id=1Zw5JUm6R8Mw1qGd1d-AZCkRDAK_HZ8Lp)
