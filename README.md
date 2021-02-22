@@ -61,9 +61,9 @@ Using Tableau, a data visualization software; we are able to show through graphs
 
 ![image](https://drive.google.com/uc?export=view&id=1-3arRWKIMd--3Fzq2RT0h7PQ913YlGHZ)
 
-![image](https://drive.google.com/uc?export=view&id=1ByqxUy_hAwRBt8pAr_pPV717QxHrJ_gy)
+![image](https://drive.google.com/uc?export=view&id=1POraS8zLcQhpzbnGiKkL9T7Ck3M6cN6u)
 
-![image](https://drive.google.com/uc?export=view&id=1OuEM_hjUMibINTc7v_fKy_f4GxU8hd4B)
+![image](https://drive.google.com/uc?export=view&id=1VtLPk-FjxPCZLil9U9lVExuYzWrcjdWJ)
 
 ![image](https://drive.google.com/uc?export=view&id=1p2LaHLXpMWRtYw9RiiBY3Umfjbyhe_PJ)
 
