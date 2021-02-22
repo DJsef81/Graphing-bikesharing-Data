@@ -52,10 +52,18 @@ Using Tableau, a data visualization software; we are able to show through graphs
 [link to dashboard](https://10ay.online.tableau.com/#/site/janolin/workbooks/799809?:origin=card_share_link)
 
 
-## Graph Summary
+## Graph Analysis Summary
+
+
+While the graphs below are accessible in the Tableau  link posted above, I’ve taken the liberty of posting screen shots below so you may follow along with our proposal. 
 
 
 ![image](https://drive.google.com/uc?export=view&id=1fzot6j08rz7pbQLGLvqqkkuW4BVpOG2Y)
+1. Our first image is of the first page of our Tableau story. We’ve created 3 graphs using Citibike’s NYC August 2019 data.
+		* Average Trip Duration based on year of births for riders. 
+		* Number of rides broken down by Gender 
+		* A map of the Top Ride Starting Locations throughout NYC. 
+	It is important to note that in the Average Trip Duration graph that the most recorded Average trip 			duration of 2,692K is that of customers claiming a birth year of 1891. One can assume that this birth year 	collection by Citibike is not verified, as it is highly unlikely that there are so many individuals that are 128 	years old riding that distance. 
 
 ![image](https://drive.google.com/uc?export=view&id=1kHZZ6pmB1oYr6H-c-j81vUpU5SPm23pr)
 
