@@ -73,7 +73,7 @@ Using Tableau, a data visualization software; we are able to show through graphs
 
 ![image](https://drive.google.com/uc?export=view&id=1Um12tUsDbNeoqMLhklC9_Y9c5JnlOFdj)
 
-![image](https://drive.google.com/uc?export=view&id=13h5cXy1WpaxpEwSp3WjYfbNMoRu7VGFY)
+![image](https://drive.google.com/uc?export=view&id=1AkcEUigezNUmILeSMzYmt-_2OZjD8VeL)
 
 ![image](https://drive.google.com/uc?export=view&id=1KwShtipmTd0Weeszjzm5M0c8W9gUAe03)
 
