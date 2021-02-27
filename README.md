@@ -50,11 +50,7 @@ Using Tableau, a data visualization software; we are able to show through graphs
 ####  Tableau Link
 
 * Link to Bikeshare Proposal Tableau Story 
-[link to dashboard](https://10ay.online.tableau.com/t/janolin/views/bikesharing/BIKESHAREPROPOSAL/josefanolin@gmail.com/7091beae-ff1f-4c0a-a4cd-24094643e869?:display_count=n&:showVizHome=n&:origin=viz_share_link)
-
-* Link to Full Tableau Workbook 
-[link to dashboard](https://10ay.online.tableau.com/#/site/janolin/workbooks/799809?:origin=card_share_link)
-
+[link to dashboard](https://tutorshelpingstudents.slack.com/archives/D01BT8NEC06/p1614391371010200)
 
 ## Graph Analysis Summary
 
